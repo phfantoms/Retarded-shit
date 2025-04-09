@@ -1,6 +1,20 @@
 # Custom Keywords: MoonSec_StringsHiddenAttr,This file was protected with MoonSec V3,
 # Cleaned Ouput Deobfuscated using 25ms
 
+--- Library
+loadstring(game.HttpGet("https://raw.githubusercontent.com/deividcomsono/Obsidian/main/Library.lua"))
+loadstring(game.HttpGet("addons/ThemeManager.lua"))
+loadstring(game.HttpGet("addons/SaveManager.lua"))
+--- Silent Aim Module
+loadstring(game.HttpGet("https://pastebin.com/raw/wCEiiFh8"))
+--- Movement and Character Module
+loadstring(game.HttpGet("https://pastebin.com/raw/tFyrTT3i"))
+--- ESP Module
+loadstring(game.HttpGet("https://pastebin.com/raw/HALrE6Z0"))
+--- Gun Mods Module
+loadstring(game.HttpGet("https://pastebin.com/raw/CLmebLcg"))
+
+
 
 _SFwSJpZMRQRZ
 
